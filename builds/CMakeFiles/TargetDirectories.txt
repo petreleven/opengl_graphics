@@ -1,0 +1,6 @@
+/home/peter/Downloads/learn/builds/CMakeFiles/main.dir
+/home/peter/Downloads/learn/builds/CMakeFiles/edit_cache.dir
+/home/peter/Downloads/learn/builds/CMakeFiles/rebuild_cache.dir
+/home/peter/Downloads/learn/builds/glad/CMakeFiles/glad.dir
+/home/peter/Downloads/learn/builds/glad/CMakeFiles/edit_cache.dir
+/home/peter/Downloads/learn/builds/glad/CMakeFiles/rebuild_cache.dir

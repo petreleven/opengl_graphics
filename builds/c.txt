@@ -1,0 +1,199 @@
+3) What is a variable?
+
+A. number
+B. message input by the user
+C. location in memory that we use to store data
+
+
+3.)Identify the variable in the following code?
+#python code starts here
+firstname = "Shukaku"
+print(name)
+#python code ends here
+A. print
+
+B. Shukaku
+
+C. firstname
+
+D. There is no variable in this script
+
+
+4.) In the following code, what does this code print?:
+#python code starts here
+stuff = [12, True, "test", 2.71, "ok", 8]
+print(stuff[2])
+#python code ends here
+A. True
+B. test
+C. 2.71
+D. 8
+
+
+5.)In the following code, what does this code print?:
+#python code starts here
+stuff = [5, 1]
+print( len(stuff) )
+#python code ends here
+
+A. 0
+B  2
+C. 1
+D. 4
+
+6.)In the following code, what does this code print?:
+#python code starts here
+stuff = [5, 1]
+stuff.append(6)
+stuff.append(100)
+print( stuff )
+#python code ends here
+
+A. [5, 1, 100, 6]
+B. [5, 1]
+C. [5, 1, 6, 100]
+D. []
+
+
+7.)When we want to store two things that are related in python
+we use a dictionary e.g storing a grade to a subject we can make 
+a dictionary like so 
+score = {"english":80, "mathematics":30}
+  i) What do we call the names used on the left hand side of the colon in 
+  the dictionary i.n our case its "english" and "mathematics"
+    A. keys
+    B. values
+    C. text
+    D. numbers
+
+  ii) What do we call the numbers/text used on the right hand side of the colon in 
+  the dictionary i.n our case its 80 and 30 
+    A. keys
+    B. values
+    C. text
+    D. numbers
+
+
+
+
+8.)Select the  correct way to remove the marks from this dictionary
+#python code start here
+student = { "name": "Emma",  "class": 9,  "marks": 75 }
+#python code ends here
+hint::After removing marks from the dictionary
+it should look like below
+student = {"name": "Emma",  "class": 9}
+
+A. del student["marks"]
+B. student.pop("marks")
+C. student - "marks"
+D. student.remove("marks")
+
+9.)Given the previous dictionary called student in the previuos question
+how can i print the name from the student
+
+A. print( student.name )
+B. print( student[name] )
+C. print( student["name" ])
+D. print("EMMA")
+
+
+10.)What will this program output/print?
+hungry = True
+if hungry==True:
+  print("cook")
+
+A. cook
+B. NOTHING WILL BE PRINTED
+C. Error
+
+10.)What will this program output/print?
+age = 12
+if age > 20:
+  print("Sloths")
+
+A. Error
+B. NOTHING WILL BE PRINTED
+C. Sloths
+D. "Sloths"
+
+11.)In the program below will "buy a cake" be printed
+
+bank_a = 6
+bank_b = 5
+
+if (bank_a + bank_b) > 10:
+  print("buy a cake")
+
+A. YES
+B. NO
+C. The program will have an error
+
+12.)In the world of Minecraft, you want to write a Python program that gives Steve a diamond if he finds a treasure chest. If he doesn't find a treasure chest, he gets a piece of coal. Here is a piece of code to do so. What will be printed at the end of the program
+
+#python code starts here
+treasure_found = False
+item = ""
+if treasure_found == :
+    item = "diamond"
+else:
+    item = "coal"
+
+print("Steve receives a" + item)
+
+A.) Steve receives a diamond
+B.) Steve receives a coal
+C.) Steve receives a 
+
+13.) In the game Among Us, you want to write a Python program that determines if a player is the Impostor. If the player is the Impostor, it prints "You are the Impostor!" Otherwise, it prints "You are a Crewmate." Fill in the blanks to complete the program:
+is_impostor = True 
+
+if ________:
+    role = "You are the Impostor!"
+else:
+    role = "You are a Crewmate."
+
+print(role)
+
+A) False
+
+B) is_impostor
+
+C) True
+
+D) role == "Impostor"
+
+14.) In the cartoon "SpongeBob SquarePants," SpongeBob works at the Krusty Krab restaurant. If we were to represent SpongeBob's work schedule using Python code, which of the following snippets correctly uses if and elif statements?
+
+A.)
+day = "Monday"
+
+if day == "Monday":
+    print("SpongeBob works from 8 AM to 4 PM.")
+elif day == "Wednesday":
+    print("SpongeBob works from 10 AM to 6 PM.")
+elif day == "Friday":
+    print("SpongeBob works from 12 PM to 8 PM.")
+else:
+    print("SpongeBob has the day off!")
+
+B.)
+day = "Monday"
+
+if day == "Monday":
+    print("SpongeBob works from 8 AM to 4 PM.")
+if day == "Wednesday":
+    print("SpongeBob works from 10 AM to 6 PM.")
+if day == "Friday":
+    print("SpongeBob works from 12 PM to 8 PM.")
+
+C.)
+day = "Monday"
+
+if day == "Monday":
+    print("SpongeBob works from 8 AM to 4 PM.")
+elif day == "Monday":
+    print("SpongeBob works from 10 AM to 6 PM.")
+elif day == "Monday":
+    print("SpongeBob works from 12 PM to 8 PM.")
+
