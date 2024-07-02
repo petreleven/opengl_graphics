@@ -3,10 +3,13 @@ project(main)
 
 #add_subdirectory(glfw)
 add_subdirectory(glad)
+add_subdirectory(Core)
+#add_subdirectory(ImageLoader)
 # Find GLFW package
 find_package(glfw3 3.3 REQUIRED)
-add_executable(main main2.cpp)
-target_link_libraries(main PUBLIC  glad glfw)
+add_executable(main main3.cpp)
+target_link_libraries(main PUBLIC  glad glfw Shader TextureLoader)
+
 target_include_directories(main PUBLIC 
                 "${project_binary_dir}"
                 "${project_source_dir}/glad")

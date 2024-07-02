@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTextureLoader.a CMakeFiles/TextureLoader.dir/TextureLoader.cpp.o
+/usr/bin/ranlib libTextureLoader.a

@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/peter/Downloads/learn/build",
+  "command": "/usr/bin/g++  -I/home/peter/Downloads/learn -I/glad -I/home/peter/Downloads/learn/glad -I/home/peter/Downloads/learn/Core -I/home/peter/Downloads/learn/Core/, -I/home/peter/Downloads/learn/Core/TextureLoader -g -o CMakeFiles/main.dir/main3.cpp.o -c /home/peter/Downloads/learn/main3.cpp",
+  "file": "/home/peter/Downloads/learn/main3.cpp"
+},
+{
+  "directory": "/home/peter/Downloads/learn/build/glad",
+  "command": "/usr/bin/gcc  -I/home/peter/Downloads/learn/glad -g -o CMakeFiles/glad.dir/src/glad.c.o -c /home/peter/Downloads/learn/glad/src/glad.c",
+  "file": "/home/peter/Downloads/learn/glad/src/glad.c"
+},
+{
+  "directory": "/home/peter/Downloads/learn/build/Core",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/TextureLoader.dir/TextureLoader.cpp.o -c /home/peter/Downloads/learn/Core/TextureLoader.cpp",
+  "file": "/home/peter/Downloads/learn/Core/TextureLoader.cpp"
+},
+{
+  "directory": "/home/peter/Downloads/learn/build/Core",
+  "command": "/usr/bin/g++  -I/home/peter/Downloads/learn/Core -I/home/peter/Downloads/learn/Core/, -I/home/peter/Downloads/learn/Core/TextureLoader -g -o CMakeFiles/Shader.dir/Shader.cpp.o -c /home/peter/Downloads/learn/Core/Shader.cpp",
+  "file": "/home/peter/Downloads/learn/Core/Shader.cpp"
+}
+]

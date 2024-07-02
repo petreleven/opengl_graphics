@@ -1,0 +1,9 @@
+/home/peter/Downloads/learn/ImageLoader/CMakeFiles/main.dir
+/home/peter/Downloads/learn/ImageLoader/CMakeFiles/edit_cache.dir
+/home/peter/Downloads/learn/ImageLoader/CMakeFiles/rebuild_cache.dir
+/home/peter/Downloads/learn/ImageLoader/glad/CMakeFiles/glad.dir
+/home/peter/Downloads/learn/ImageLoader/glad/CMakeFiles/edit_cache.dir
+/home/peter/Downloads/learn/ImageLoader/glad/CMakeFiles/rebuild_cache.dir
+/home/peter/Downloads/learn/ImageLoader/Core/CMakeFiles/Shader.dir
+/home/peter/Downloads/learn/ImageLoader/Core/CMakeFiles/edit_cache.dir
+/home/peter/Downloads/learn/ImageLoader/Core/CMakeFiles/rebuild_cache.dir
